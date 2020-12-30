@@ -6,7 +6,7 @@ written by Prof. Marcos López de Prado.
 ## Chapter 2 Denoising and Detoning
 
 Marcenko-Pasture theoretical probability density function, and empirical density function:
-| ![marcenko-pastur.png](https://github.com/michaelsyao/ML-for-Asset-Managers/blob/master/img/gaussian_mp.png) | 
+| ![marcenko-pastur.png](https://github.com/michaelsyao/ML-for-Asset-Managers/blob/main/img/gaussian_mp.png) | 
 |:--:| 
 | *Figure 2.1:Marcenko-Pasture theoretical probability density function, and empirical density function:* |
 
