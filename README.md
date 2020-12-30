@@ -6,10 +6,9 @@ written by Prof. Marcos López de Prado.
 ## Chapter 2 Denoising and Detoning
 
 Marcenko-Pasture theoretical probability density function, and empirical density function:
-| ![marcenko-pastur.png](https://github.com/emoen/Machine-Learning-for-Asset-Managers/blob/master/img/gaussian_mp.png) | 
+| ![marcenko-pastur.png](https://github.com/michaelsyao/ML-for-Asset-Managers/blob/master/img/gaussian_mp.png) | 
 |:--:| 
 | *Figure 2.1:Marcenko-Pasture theoretical probability density function, and empirical density function:* |
-
 
 Denoising a random matrix with signal using the constant residual eigenvalue method. This is done by fixing random eigenvalues. See code snippet 2.5
 | ![eigenvalue_method.png](https://github.com/emoen/Machine-Learning-for-Asset-Managers/blob/master/img/figure_2_3_eigenvalue_method.png) | 
